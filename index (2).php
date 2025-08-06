@@ -1,0 +1,1289 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+
+        <meta name="description" content="">
+        <meta name="author" content="TemplateMo">
+
+        <title>Portfolio - Jhoselle Tus</title>
+
+        <!-- CSS FILES -->
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        
+        <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;700&display=swap" rel="stylesheet">
+
+        <link href="css/bootstrap.min.css" rel="stylesheet">
+
+        <link href="css/bootstrap-icons.css" rel="stylesheet">
+
+        <link href="css/magnific-popup.css" rel="stylesheet">
+
+        <link href="css/templatemo-first-portfolio-style.css" rel="stylesheet">
+        
+<!--
+
+TemplateMo 578 First Portfolio
+
+https://templatemo.com/tm-578-first-portfolio
+
+-->
+    </head>
+    
+    <body>
+
+        <section class="preloader">
+            <div class="spinner">
+                <span class="spinner-rotate"></span>    
+            </div>
+        </section>
+
+        <nav class="navbar navbar-expand-lg">
+            <div class="container">
+
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+
+                <a href="index.html" class="navbar-brand mx-auto mx-lg-0">Portfolio</a>
+
+                <div class="d-flex align-items-center d-lg-none">
+                    <i class="navbar-icon bi-telephone-plus me-3"></i>
+                    <a class="custom-btn btn" href="#section_5">
+                        120-240-9600
+                    </a>
+                </div>
+
+                <div class="collapse navbar-collapse" id="navbarNav">
+                    <ul class="navbar-nav ms-lg-5">
+                        <li class="nav-item">
+                            <a class="nav-link click-scroll" href="#section_1">Home</a>
+                        </li>
+
+                        <li class="nav-item">
+                            <a class="nav-link click-scroll" href="#section_2">Professional Engagment</a>
+                        </li>
+
+                        <li class="nav-item">
+                            <a class="nav-link click-scroll" href="#section_3">Recent Publications</a>
+                        </li>
+
+                        <li class="nav-item">
+                            <a class="nav-link click-scroll" href="#section_4">Affili ations</a>
+                        </li>
+
+                        <li class="nav-item">
+                            <a class="nav-link click-scroll" href="#section_5">Contact</a>
+                        </li>
+                    </ul>
+
+                    <div class="d-lg-flex align-items-center d-none ms-auto">
+                        <i class="navbar-icon bi-telephone-plus me-3"></i>
+                        <a class="custom-btn btn" href="#section_5">
+                            +63 975 091 8100 
+                        </a>
+                    </div>
+                </div>
+
+            </div>
+        </nav>
+
+        <main>
+
+            <section class="hero d-flex justify-content-center align-items-center" id="section_1">
+                <div class="container">
+                    <div class="row">
+
+                        <div class="col-lg-7 col-12">
+                            <div class="hero-text">
+                                <div class="hero-title-wrap d-flex align-items-center mb-4">
+                                    <img src="images/jhoselle_tus.jpg" class="avatar-image avatar-image-large img-fluid" alt="">
+
+                                    <h1 class="hero-title ms-3 mb-0">JHOSELLE TUS</h1>
+                                </div>
+
+                                <!-- <h2 class="mb-4">I’m available for freelance work.</h2> -->
+                                <p class="mb-4 text-white">Block 38 Lot 15 Las Palmas Subdivision 
+                                    CayPombo, Sta. Maria, Bulacan 3022 Philippines <br>
+                                    Email: jhosellepsych@yahoo.com / jtus@spcbocaue.edu.ph / tusjoselle@jilcf.edu.ph <br>
+                                    <!-- Contact No.: +63 975 091 8100  -->
+                                </p>
+                                <p class="mb-4">
+                                    <a class="custom-btn btn custom-link mb-2" href="https://scholar.google.com/citations?user=4BCa-bYAAAAJ">Google Scholar Account</a>
+                                    <a class="custom-btn btn custom-link mb-2" href="https://orcid.org/0000-0003-4126-3918">Orcid ID</a>
+                                    <a class="custom-btn btn custom-link mb-2" href="M-7389-2018">Web of Science Researcher ID</a>
+                                    <a class="custom-btn btn custom-link mb-2" href="https://www.researchgate.net/profile/Jhoselle-Tus/stats ">ResearchGate Account</a>
+                                </p>
+                            </div>
+                        </div>
+
+                        <div class="col-lg-5 col-12 position-relative">
+                            <div class="hero-image-wrap"></div>
+                            <img src="images/portrait-happy-excited-man-holding-laptop-computer.png" class="hero-image img-fluid" alt="">
+                            
+                        </div>
+
+                    </div>
+                </div>
+
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320"><path fill="#20124d" fill-opacity="1" d="M0,160L24,160C48,160,96,160,144,138.7C192,117,240,75,288,64C336,53,384,75,432,106.7C480,139,528,181,576,208C624,235,672,245,720,240C768,235,816,213,864,186.7C912,160,960,128,1008,133.3C1056,139,1104,181,1152,202.7C1200,224,1248,224,1296,197.3C1344,171,1392,117,1416,90.7L1440,64L1440,0L1416,0C1392,0,1344,0,1296,0C1248,0,1200,0,1152,0C1104,0,1056,0,1008,0C960,0,912,0,864,0C816,0,768,0,720,0C672,0,624,0,576,0C528,0,480,0,432,0C384,0,336,0,288,0C240,0,192,0,144,0C96,0,48,0,24,0L0,0Z"></path></svg>
+            </section>
+
+             
+            <section class="featured mt-5">
+                <div class="container">
+                    <div class="row">
+
+                        <!-- <div class="col-lg-6 col-12">
+                            <div class="profile-thumb">
+                                <div class="profile-title">
+                                    <h4 class="mb-0">Information</h4>
+                                </div>
+
+                                <div class="profile-body">
+                                    <p>
+                                        <span class="profile-small-title">Name</span> 
+                                        <span>Joshua Morgan</span>
+                                    </p>
+
+                                    <p>
+                                        <span class="profile-small-title">Birthday</span> 
+                                        <span>Aug 12, 1986</span>
+                                    </p>
+
+                                    <p>
+                                        <span class="profile-small-title">Phone</span> 
+                                         <span><a href="tel: 305-240-9671">120-240-9600</a></span>
+                                    </p>
+
+                                    <p>
+                                        <span class="profile-small-title">Email</span> 
+                                        <span><a href="mailto:hello@josh.design">hello@josh.design</a></span>
+                                    </p>
+                                </div>
+                            </div>
+                        </div> -->
+
+                        <div class="col-lg-12 col-12 mt-0 mt-lg-0">
+                            <div class="about-thumb">
+                                <div class="row">
+                                    <div class="col-lg-4 col-4 featured-border-bottom py-2" style="text-align:center;">
+                                        <strong class="featured-numbers">192</strong>
+
+                                        <p class="featured-text">Publications</p>
+                                    </div>
+
+                                    <div class="col-lg-4 col-4 featured-border-start featured-border-bottom ps-5 py-2" style="text-align:center;">
+                                        <strong class="featured-numbers">4,189,387</strong>
+
+                                        <p class="featured-text">Reads</p>
+                                    </div>
+
+                                    <div class="col-lg-4 col-4 featured-border-start featured-border-bottom ps-5 py-2" style="text-align:center;">
+                                        <strong class="featured-numbers">1,660</strong>
+
+                                        <p class="featured-text">Citations</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+            </section>
+            <section class="mt-5" id="section_2">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-lg-11 col-12 mx-auto" >
+                            <div class="section-title-wrap d-flex justify-content-center align-items-center mb-5">
+                                
+                                <img src="images/aerial-view-man-using-computer-laptop-wooden-table.jpg" class="avatar-image img-fluid" alt="">
+                                <h3 class="text-white ms-4 mb-0">Professional Engagement</h3>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+            <section class="about mt-5" >
+                <div class="container">
+                    <div class="row">
+
+                        <div class="col-lg-6 col-12">
+                            <!-- <img src="images/couple-working-from-home-together-sofa.jpg" class="about-image img-fluid" alt=""> -->
+                             <div class="about-thumb">
+
+                                <div class="section-title-wrap d-flex justify-content align-items-center mb-4">
+                                    <h4 class="text-white ms-4 mb-0">Academic Background</h4>
+                                </div>
+                                <div class="row">
+                                    <div class="col-lg-3"><p class="txt-m"><strong>2024 – Present </strong></p></div>
+                                    <div class="col-lg-9"><p class="txt-m"><strong>Doctor of Public Administration (Ongoing) </strong><br>
+                                        Greenville College <br>
+                                        Belfast, Pasig, Philippines</p>
+                                    </div>
+
+                                    <div class="col-lg-3"><p class="txt-m"><strong>2023 – Present </strong></p></div>
+                                    <div class="col-lg-9"><p class="txt-m"><strong>Doctor of Philosophy in Research and Evaluation (Ongoing) </strong><br>
+                                        Philippine Christian University <br>
+                                        City of Dasmariñas, Cavite, Philippines</p>
+                                    </div>
+
+                                    <div class="col-lg-3"><p class="txt-m"><strong>2018 – 2023 </strong></p></div>
+                                    <div class="col-lg-9"><p class="txt-m"><strong>Doctor of Philosophy Major in Educational Psychology </strong><br>
+                                        Greenville College <br>
+                                        Belfast, Pasig, Philippines</p>
+                                    </div>
+
+                                    <div class="col-lg-3"><p class="txt-m"><strong>2015 – 2018 </strong></p></div>
+                                    <div class="col-lg-9"><p class="txt-m"><strong>Master of Arts in Behavioral Science Major in Psychology </strong><br>
+                                        <strong>With Latin Honor: Magna Cum Laude</strong> <br>
+                                        Published Master's Thesis: <br><a class="_link" href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=4BCa-bYAAAAJ&citation_for_view=4BCa-bYAAAAJ:eQOLeE2rZwMC">Self -Concept, Self -Esteem, Self -Efficacy, and Academic Performance of the Senior High School Students</a><br>
+                                        <strong>La Consolacion University Philippines</strong><br>
+                                        City of Malolos, Bulacan, Philippines <br>
+                                        With Education Units</p>
+                                    </div>
+                                </div>
+                                <div class="section-title-wrap d-flex justify-content align-items-center mb-4 mt-3">
+                                    <h4 class="text-white ms-4 mb-0">Certifications</h4>
+                                </div>
+                                <p>
+                                    <ul>
+                                        <li class="txt-m"> 	TESDA Certified: Events Management Services (NC III) </li>
+                                        <li class="txt-m"> 	Teach English as a Foreign Language (TEFL) - Certificate Course with a grade of High Distinction <br>
+                                                            TEFL Professional Development Institute, Student Number: TEFL_018345 </li>
+                                        <li class="txt-m"> 	TESOL Certificate Course, International Open Academy <br>
+                                                            Certificate Number: 100-279912 </li>
+                                        <li class="txt-m">  Child Psychology: Raising Happy Teens Course, International Open Academy,
+                                                            Certificate Number: 100-279913</li>
+                                        <li class="txt-m"> 	Psychology Examination, Sri Guru Ram Das Institute of Medical Research Association (Punjab, India),
+                                                            Certificate No. II0BUO-CE000804</li>
+                                        <li class="txt-m"> 	Clinical Psychology (E-Learning Course), Sri Guru Ram Das Institute of Medical Research Association (Punjab, India) <br>
+                                                            Certificate No.: QBJJMG-CE000193</li>
+                                        <li class="txt-m"> 	Statistics Essentials for Analytics – Beginners, EDUCBA <br>
+                                                            Certificate No.: MYBWD1IBP</li>
+                                        <li class="txt-m"> 	Microsoft Educator Center Certified Microsoft Innovative Educator Program</li>
+                                    </ul>
+                                </p>
+                            </div>
+                        </div>
+
+                        <div class="col-lg-6 col-12 mt-5 mt-lg-0" >
+                            <div class="about-thumb">
+
+                                <div class="section-title-wrap d-flex justify-content align-items-center mb-4">
+                                    <h4 class="text-white me-4 mb-0">Professional Experiences</h4>
+                                    <!-- <img src="images/happy-bearded-young-man.jpg" class="avatar-image img-fluid" alt=""> -->
+                                </div>
+
+                                <div class="row">
+
+                                    <div class="col-lg-4"><p class="txt-m"><strong>February 2024 – Present  </strong></p></div>
+                                    <div class="col-lg-8"><p class="txt-m"><strong>MALAY COLLEGE </strong><br>
+                                        Malay, Aklan <br>
+                                        Part-Time Instructor</p>
+                                    </div>
+
+                                    <div class="col-lg-4"><p class="txt-m"><strong>January 2024 – Present </strong></p></div>
+                                    <div class="col-lg-8"><p class="txt-m"><strong>ST. DOMINIC COLLEGE OF ASIA </strong><br>
+                                        Bacoor, Cavite, Philippines <br>
+ 	                                    Graduate School Professor</p>
+                                    </div>
+
+                                    <div class="col-lg-4"><p class="txt-m"><strong>June 2019 – Present  </strong></p></div>
+                                    <div class="col-lg-8"><p class="txt-m"><strong>JESUS IS LORD COLLEGES FOUNDATION, INC.</strong><br>
+                                        Bocaue, Bulacan, Philippines <br>
+                                        <ul>
+                                            <li class="txt-m">Professor II (Part-Time, June 2019 – Present)</li>
+                                            <li class="txt-m">Program Chair – Psychology Department (August 2023 – December 2024) </li>
+                                            <li class="txt-m">Research Coordinator (August 2023 – December 2024)</li>
+                                        </ul></p>    
+                                    </div>
+
+                                    <div class="col-lg-4"><p class="txt-m"><strong>June 2017 – July 2023 </strong></p></div>
+                                    <div class="col-lg-8"><p class="txt-m"><strong>ST. PAUL COLLEGE OF BOCAUE </strong><br>
+                                        Bocaue, Bulacan, Philippines <br>
+ 	                                    <ul>
+                                            <li class="txt-m">Subject Area Head - Social Science</li>
+                                            <li class="txt-m">Community Extension Services Head</li>
+                                            <li class="txt-m">School Partnership Focal Person – SHS Work Immersion </li>
+                                            <li class="txt-m">Member: SPCB PAASCU Accreditation Team <br>Co-Chairman: School & Community</li>
+                                        </ul></p>
+                                    </div>
+
+                                    <div class="col-lg-4"><p class="txt-m"><strong>June 2013 – May 2017 </strong></p></div>
+                                    <div class="col-lg-8"><p class="txt-m"><strong>STI COLLEGE STA. MARIA (Senior High School & Tertiary Level) </strong><br>
+                                        Poblacion, Sta. Maria, Bulacan, Philippines <br>
+                                        <ul>
+                                            <li class="txt-m">Guidance Head | College Instructor</li>
+                                            <li class="txt-m">Student Affairs Officer | Alumni and Placement Officer</li>
+                                        </ul></p>
+                                    </div>
+
+                                    <div class="col-lg-4"><p class="txt-m"><strong>June 2014 – May 2015</strong></p></div>
+                                    <div class="col-lg-8"><p class="txt-m"><strong>ST. DOMINIC DE GUZMAN SCHOOL (Elementary and High School)</strong><br>
+                                        CayPombo, Sta. Maria, Bulacan, Philippines <br>
+ 	                                    <ul>
+                                            <li class="txt-m"> Behavior Management Coordinator (Consultant) <br> Guidance and Counseling Office</li>
+                                        </ul></p>
+                                    </div>
+
+                                </div>
+
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+            </section>
+
+            <section class="clients mt-4">
+                <div class="container">
+                    <div class="row align-items-center">
+
+                        <div class="col-lg-12 col-12">
+                            <h3 class="text-center mb-5">International Journal Editorial and Reviewer Affiliations</h3>
+                        </div>
+
+                        <div class="col-lg-12 col-12 row ml-5 mr-5">
+                            <div class="col-lg-2 col-4 text-center">
+                                2021 – Present
+                            </div>
+                            <div class="col-lg-4 col-8">
+                                Editor-in-Chief (Country: Turkey) <br>
+                                Psychology and Education: A Multidisciplinary Journal <br>
+                                <a class="_link" href="https://scimatic.org/journals/11">https://scimatic.org/journals/11</a>
+                            </div>
+
+                            <div class="col-lg-2 col-4 text-center">
+                                2019 – Present
+                            </div>
+                            <div class="col-lg-4 col-8">
+                                Member, Editorial Advisory (Country: Indonesia) <br>
+                                Journal of Social, Humanity, and Education (JSHE) <br>
+                                <a class="_link" href="https://goodwoodpub.com/index.php/jshe/about/editorialTeam">https://goodwoodpub.com/index.php/jshe/about/editorialTeam </a>
+                            </div>
+                    
+                            <div class="col-lg-2 col-4 text-center">
+                                2020 – Present
+                            </div>
+                            <div class="col-lg-4 col-8">
+                                Editor, Member of the Editorial Board (Country: Australia) <br>
+                                Electronic Research Journal of Behavioral Sciences <br>
+                                <a class="_link" href="https://erjbehaviouralsciences.com/editorial-board/">https://erjbehaviouralsciences.com/editorial-board/</a>
+                            </div>
+
+                            <div class="col-lg-2 col-4 text-center">
+                                2020 – Present
+                            </div>
+                            <div class="col-lg-4 col-8">
+                                Editor, Member of the Editorial Board (Country: Indonesia) <br>
+                                International Journal of Economics Development Research (ISSN: 2715-7903) <br>
+                                <a class="_link" href="https://journal.yrpipku.com/index.php/ijedr/about/editorialTeam">https://journal.yrpipku.com/index.php/ijedr/about/editorialTeam</a>
+                            </div>
+
+                            <div class="col-lg-2 col-4 text-center">
+                                2020 – Present
+                            </div>
+                            <div class="col-lg-4 col-8">
+                                Editor, Member of the Editorial Board (Country: India)<br>
+                                International Engineering Journal for Research & Development <br>
+                                <a class="_link" href="http://iejrd.com/index.php/%20/about/editorialTeam">http://iejrd.com/index.php/%20/about/editorialTeam</a>
+                            </div>
+
+                            <div class="col-lg-2 col-4 text-center">
+                                2020 – Present
+                            </div>
+                            <div class="col-lg-4 col-8">
+                                Member, Scientific Board Committee (Country: Rome)<br>
+                                International European Conference on Interdisciplinary Scientific Researches<br>
+                                <a class="_link" href="https://www.eucongress.org/bilim-kurulu">https://www.eucongress.org/bilim-kurulu</a>
+                            </div>
+                        </div>
+
+                        <div class="col-lg-12 col-12 ml-5 mr-5 mt-5">
+                            <h3 class="text-center mb-5">Volunteer Journal Reviewer</h3>
+                        </div>
+
+                        <div class="col-lg-12 col-12 row ml-5 mr-5">
+                            <div class="col-lg-6 col-12">
+                                <ul>
+                                    <li class="txt-m">Psychology Research and Behavior Management (Taylor & Francis Journal)</li>
+                                    <li class="txt-m">Journal of Personality Assessment (Taylor & Francis Journal)</li>
+                                    <li class="txt-m">SEISENSE Journal of Management</li>
+                                    <li class="txt-m">Central Mindanao University Journal of Science</li>
+                                    <li class="txt-m">International Journal of Education in Mathematics, Science and Technology (Scopus Indexed)</li>
+                                    <li class="txt-m">Uttar Pradesh Journal of Zoology</li>
+                                </ul>
+                            </div>
+                            <div class="col-lg-6 col-12">
+                                <ul>
+                                    <li class="txt-m">Journal of Education, Management and Development Studies (CamSur Polytechnic Colleges)</li>
+                                    <li class="txt-m">Journal of Pharmaceutical Research International</li>
+                                    <li class="txt-m">Asian Journal of Arts, Humanities and Social Studies</li>
+                                    <li class="txt-m">Asian Journal of Medicine and Health</li>
+                                    <li class="txt-m">Integrity Journal of Education and Training</li>
+                                </ul>
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+            </section>
+
+            <section class="services mt-5" id="section_3">
+                <div class="container">
+                    <div class="row">
+
+                        <div class="col-lg-11 col-12 mx-auto">
+                            <div class="section-title-wrap d-flex justify-content-center align-items-center mb-5">
+                                <img src="images/handshake-man-woman-after-signing-business-contract-closeup.jpg" class="avatar-image img-fluid" alt="">
+
+                                <h3 class="text-white ms-4 mb-0">Recent Publications</h3>
+                            </div>
+                            
+
+                            <div class="row ">
+                                <div class="col-lg-12 col-12">
+                                    <div class="services-thumb" >
+                                        <h6 class="mb-0">Google Scholar Citations: 1975 (h-index: 23; i10-index: 63) </h6>
+                                        <p>Google Scholar Account: 
+                                            <a class="_link" href="https://scholar.google.com/citations?user=4BCa-bYAAAAJ&hl=en">https://scholar.google.com/citations?user=4BCa-bYAAAAJ&hl=en</a>
+                                        </p>
+                                        <img src="images/google-scholar.png" style="width: 100%; height: auto; object-fit: contain;" alt="">
+                                    </div>
+                                </div>
+
+                                <div class="col-lg-12 col-12 mt-3">
+                                    <div class="services-thumb" >
+                                        <p style="display: inline;">The <h6 class="mb-0" style="display: inline;">AD Scientific Index </h6>(Alper-Doger Scientific Index), unlike other systems that provide evaluations of journals and universities, is a ranking and analysis system based on the scientific performance and the added value of the scientific productivity of individual scientists.</p>
+                                        <p>AD Scientific Index 2024 Report: 
+                                            <a class="_link" href="https://www.adscientificindex.com/scientist/jhoselle-tus/4973779">https://www.adscientificindex.com/scientist/jhoselle-tus/4973779</a>
+                                        </p>
+                                        <img src="images/ad-scientific-index-2.png" style="width: 100%; height: auto; object-fit: contain;" alt="">
+                                    </div>
+                                </div>
+
+                                <div class="col-lg-12 col-12 mt-3">
+                                    <div class="services-thumb" >
+                                        <h6 class="mb-0">ReasearchGate </h6>
+                                        <p>ResearchGate Statistics Report:  
+                                            <a class="_link" href="https://www.researchgate.net/profile/Jhoselle-Tus/stats">https://www.researchgate.net/profile/Jhoselle-Tus/stats</a>
+                                        </p>
+                                        <img src="images/research-gate-profile.png" style="width: 100%; height: auto; object-fit: contain;" alt="">
+                                        <img src="images/research-gate.png" style="width: 100%; height: auto; object-fit: contain;" alt="">
+                                    </div>
+                                </div>
+
+                                @php
+                                    $items = [
+                                        [
+                                            'id' => 1,
+                                            'year' => 2021,
+                                            'authors' => 'Tus, J.',
+                                            'country' => 'India',
+                                            'conference' => 'Online International Conference On Multidisciplinary Research And Development 21',
+                                            'title' => 'Amidst COVID-19 Pandemic: Depression, Anxiety, Stress, and Academic Performance of the Students in the New Normal of Education in the Philippines.',
+                                            'doi' => '10.6084/m9.figshare.14775339.v1'
+                                        ],
+                                        [
+                                            'id' => 2,
+                                            'year' => 2022,
+                                            'authors' => 'Tus, J. et al.',
+                                            'country' => 'Malaysia',
+                                            'conference' => 'Fifth International Multidisciplinary Conference on Current Research Trends-2022',
+                                            'title' => 'Work Values, Job Involvement, Organizational Commitment and Job Performance of Public-School Teachers Amidst the Pandemic. Journal of Production, Operations Management and Economics. 1-9.',
+                                            'doi' => '10.55529/jpome.23.1.9.'
+                                        ],
+                                        [
+                                            'id' => 3,
+                                            'year' => 2022,
+                                            'authors' => 'Tus, J.',
+                                            'country' => 'Tunisia',
+                                            'conference' => '4th International Congress Of Health, Engineering And Applied Sciences',
+                                            'title' => 'The Self-Efficacy and Its Relationship to the Academic Performance in Online Learning Among Senior High School Students.',
+                                            'doi' => ''
+                                        ],
+                                        [
+                                            'id' => 4,
+                                            'year' => 2022,
+                                            'authors' => 'Tus, J.',
+                                            'country' => 'Philippines',
+                                            'conference' => '7th ueKAMAYNILAAN 2022 Virtual National Research Conference',
+                                            'title' => 'A Phenomenological Study of the Lived Experiences and Challenges Faced by School Service Drivers Amidst the COVID-19 Pandemic',
+                                            'doi' => ''
+                                        ],
+                                    ];
+                                @endphp
+
+                                <div class="col-lg-12 col-12 mt-5">
+                                    <div class="services-thumb services-thumb-up">
+                                        <div class="d-flex flex-wrap align-items-center border-bottom mb-4 pb-3">
+                                            <h3 class="mb-0">Research Conference and Presentation</h3>
+                                        </div>
+                                        <div class="responsive-table">
+                                            <table>
+                                                <thead>
+                                                    <tr>
+                                                        <th>No</th>
+                                                        <th>Year</th>
+                                                        <th>Authors</th>
+                                                        <th>Country</th>
+                                                        <th>Conference</th>
+                                                        <th>Research Title</th>
+                                                        <th>DOI / Link</th>
+                                                    </tr>
+                                                </thead>
+                                                <tbody>
+                                                    @foreach ($items as $item)
+                                                        <tr>
+                                                            <td>{{ $item['id'] }}</td>
+                                                            <td>{{ $item['year'] }}</td>
+                                                            <td>{{ $item['authors'] }}</td>
+                                                            <td>{{ $item['country'] }}</td>
+                                                            <td>{{ $item['conference'] }}</td>
+                                                            <td>{{ $item['title'] }}</td>
+                                                            <td>
+                                                                @if ($item['doi'])
+                                                                    <a href="https://doi.org/{{ $item['doi'] }}" target="_blank">{{ $item['doi'] }}</a>
+                                                                @else
+                                                                    N/A
+                                                                @endif
+                                                            </td>
+                                                        </tr>
+                                                    @endforeach
+                                                </tbody>
+                                            </table>
+                                        </div>
+
+                                    </div>
+                                </div>
+                                
+                                @php
+                                    $items2 = [
+                                        [
+                                            'id' => 107,
+                                            'year' => 2023,
+                                            'authors' => 'Yapo et al.',
+                                            'title' => 'The Psychological Well-Being and Lived Experiences of LGBT Individuals with Fur Babies.',
+                                            'journal' => 'Psychology and Education: A Multidisciplinary Journal',
+                                            'volume' => 7,
+                                            'pages' => '146-152',
+                                            'doi' => '10.5281/zenodo.7651584'
+                                        ],
+                                        [
+                                            'id' => 108,
+                                            'year' => 2023,
+                                            'authors' => 'Santiago et al.',
+                                            'title' => 'Halalan Pilipinas: The Lived Experiences and Challenges Faced by Election Poll Watchers.',
+                                            'journal' => 'Psychology and Education: A Multidisciplinary Journal',
+                                            'volume' => 7,
+                                            'pages' => '202-209',
+                                            'doi' => '10.5281/zenodo.7653196'
+                                        ],
+                                        [
+                                            'id' => 109,
+                                            'year' => 2023,
+                                            'authors' => 'Baluyot et al.',
+                                            'title' => 'Kinsenas, Katapusan: The Lived Experiences and Challenges Faced by Single Mothers.',
+                                            'journal' => 'Psychology and Education: A Multidisciplinary Journal',
+                                            'volume' => 7,
+                                            'pages' => '182-188',
+                                            'doi' => '10.5281/zenodo.7653107'
+                                        ],
+                                        [
+                                            'id' => 110,
+                                            'year' => 2023,
+                                            'authors' => 'Dianito et al.',
+                                            'title' => 'Celebrity Admiration and Its Relationship to the Self-Esteem of Filipino Male Teenagers.',
+                                            'journal' => 'Psychology and Education: A Multidisciplinary Journal',
+                                            'volume' => 7,
+                                            'pages' => '305-313',
+                                            'doi' => '10.5281/zenodo.7683080'
+                                        ],
+                                        [
+                                            'id' => 111,
+                                            'year' => 2023,
+                                            'authors' => 'Paras et al.',
+                                            'title' => 'Ang Naging Kamalayan Bunga Ng Hiwalayan: Understanding Young Adults’ Attitudes Towards Parental Separation.',
+                                            'journal' => 'Psychology and Education: A Multidisciplinary Journal',
+                                            'volume' => 7,
+                                            'pages' => '637-657',
+                                            'doi' => '10.5281/zenodo.7749977'
+                                        ],
+                                        [
+                                            'id' => 112,
+                                            'year' => 2023,
+                                            'authors' => 'Dalmacio et al.',
+                                            'title' => 'Exploring the Implication of Gadgets Use towards School and Behavior of Middle Childhood: The Mothers` Perspectives.',
+                                            'journal' => 'Psychology and Education: A Multidisciplinary Journal',
+                                            'volume' => 7,
+                                            'pages' => '741-750',
+                                            'doi' => '10.5281/zenodo.7750846'
+                                        ],
+                                        [
+                                            'id' => 113,
+                                            'year' => 2023,
+                                            'authors' => 'Sy et al.',
+                                            'title' => 'A Phenomenological Exploration of Binge-Watching in Early Adulthood.',
+                                            'journal' => 'Psychology and Education: A Multidisciplinary Journal',
+                                            'volume' => 7,
+                                            'pages' => '517-531',
+                                            'doi' => '10.5281/zenodo.7731819'
+                                        ],
+                                        [
+                                            'id' => 114,
+                                            'year' => 2023,
+                                            'authors' => 'Solmiano et al.',
+                                            'title' => 'The Effect of Social Media Addiction and Social Anxiety on the Happiness of Tertiary Students Amidst the COVID-19 Pandemic.',
+                                            'journal' => 'Psychology and Education: A Multidisciplinary Journal',
+                                            'volume' => 7,
+                                            'pages' => '502-510',
+                                            'doi' => '10.5281/zenodo.7725466'
+                                        ],
+                                        [
+                                            'id' => 115,
+                                            'year' => 2023,
+                                            'authors' => 'Dacanay et al.',
+                                            'title' => 'Job Motivation and Its Impact on Job Satisfaction Among Accountants.',
+                                            'journal' => 'Psychology and Education: A Multidisciplinary Journal',
+                                            'volume' => 7,
+                                            'pages' => '',
+                                            'doi' => '10.5281/zenodo.7992448'
+                                        ],
+                                        [
+                                            'id' => 116,
+                                            'year' => 2023,
+                                            'authors' => 'Regoso et al.',
+                                            'title' => 'Work Environment and Its Influence on Job Burnout and Organizational Commitment of BPO Agents.',
+                                            'journal' => 'Psychology and Education: A Multidisciplinary Journal',
+                                            'volume' => 7,
+                                            'pages' => '',
+                                            'doi' => '10.5281/zenodo.8040889'
+                                        ],
+                                        [
+                                            'id' => 117,
+                                            'year' => 2023,
+                                            'authors' => 'Francisco et al.',
+                                            'title' => 'Amidst the ASF Outbreak: The Job Burnout and Employee Performance in the Feed Industry.',
+                                            'journal' => 'Psychology and Education: A Multidisciplinary Journal',
+                                            'volume' => 7,
+                                            'pages' => '',
+                                            'doi' => '10.5281/zenodo.8016949'
+                                        ],
+                                    ];
+                                @endphp
+
+                                <div class="col-lg-12 col-12 mt-5">
+                                    <div class="services-thumb services-thumb-up">
+                                        <div class="d-flex flex-wrap align-items-center border-bottom mb-4 pb-3">
+                                            <h3 class="mb-0">Published Researches</h3>
+                                        </div>
+                                            <span><p>117 records from 2019 to present</p></span>
+                                        <div class="responsive-table">
+                                            <table>
+                                                <thead>
+                                                    <tr>
+                                                        <th>No</th>
+                                                        <th>Year</th>
+                                                        <th>Authors</th>
+                                                        <th>Research Title</th>
+                                                        <th>Journal</th>
+                                                        <th>Volume</th>
+                                                        <th>Pages</th>
+                                                        <th>DOI / Link</th>
+                                                    </tr>
+                                                </thead>
+                                                <tbody>
+                                                    @foreach ($items2 as $item)
+                                                        <tr>
+                                                            <td>{{ $item['id'] }}</td>
+                                                            <td>{{ $item['year'] }}</td>
+                                                            <td>{{ $item['authors'] }}</td>
+                                                            <td>{{ $item['title'] }}</td>
+                                                            <td>{{ $item['journal'] }}</td>
+                                                            <td>{{ $item['volume'] }}</td>
+                                                            <td>{{ $item['pages'] ?: 'N/A' }}</td>
+                                                            <td>{{ $item['doi'] }}</td>
+                                                        </tr>
+                                                    @endforeach
+                                                </tbody>
+                                            </table>
+                                        </div>
+
+                                    </div>
+                                </div>
+
+
+                                <div class="col-lg-12 col-12 mt-3">
+                                    <div class="services-thumb" >
+                                        <h4 class="mb-0">International Conference Committee </h4>
+                                        <h6>2nd International Conference on Artificial Intelligence and Education (ICAIE 2021) Conference Chairman: </h6>
+                                        <p>Country: Tianjin, China 
+                                            <a class="_link" href="http://ic-icaie.org/committeeSpeaker">http://ic-icaie.org/committeeSpeaker</a>
+                                        </p>
+                                        <img src="images/international-conference.png" style="width: 100%; height: auto; object-fit: contain;" alt="">
+                                        <h6>1st International Conference on Artificial Intelligence and Education (ICAIE 2020) Member</h6>
+                                        <p>Country: Tianjin, China 
+                                            <a class="_link" href="http://www.icaie2020.org/news/8">http://www.icaie2020.org/news/8</a>
+                                        </p>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <section class="mt-5" id="section_4">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-lg-11 col-12 mx-auto" >
+                            <div class="section-title-wrap d-flex justify-content-center align-items-center mb-5">
+                                
+                                <img src="images/affiliation.jpg" class="avatar-image img-fluid" alt="">
+                                <h3 class="text-white ms-4 mb-0">Affiliations</h3>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <section class="clients mt-3">
+                <div class="container">
+                    <div class="row align-items-center">
+
+                        <div class="col-lg-12 col-12">
+                            <h3 class="text-center mb-5">Companies I've had worked</h3>
+                        </div>
+
+                        <div class="col-lg-2 col-4 ms-auto clients-item-height">
+                            <img src="images/clients/pmha.png" class="clients-image img-fluid" alt="">
+                        </div>
+
+                        <div class="col-lg-2 col-4 clients-item-height">
+                            <img src="images/clients/page.png" class="clients-image img-fluid" alt="">
+                        </div>
+
+                        <div class="col-lg-2 col-4 clients-item-height">
+                            <img src="images/clients/reap.png" class="clients-image img-fluid" alt="">
+                        </div>
+
+                        <div class="col-lg-2 col-4 clients-item-height">
+                            <img src="images/clients/aqra.jpg" class="clients-image img-fluid" alt="">
+                        </div>
+
+                        <div class="col-lg-2 col-4 me-auto clients-item-height">
+                            <img src="images/clients/iafor.png" class="clients-image img-fluid" alt="">
+                        </div>
+
+                        <div class="col-lg-2 col-4 me-auto clients-item-height">
+                            <img src="images/clients/mmira.png" class="clients-image img-fluid" alt="">
+                        </div>
+                        
+                        <div class="col-lg-12 col-12 text-center mt-5">
+                            <p class="txt-m"> <strong>	Philippine Mental Health Association</strong> (PMHA), PROFESSIONAL MEMBER  <br>
+                                East Avenue, Quezon City (2010 - up to present)
+                            </p>
+                            <p class="txt-m"><strong>Philippine Association for Graduate Education - Region III </strong>(PAGE), MEMBER <br>
+                                Region III (2019 - up to present)
+                            </p>
+                            <p class="txt-m"><strong>Religious Educators Association of the Philippines </strong>(REAP), Member <br>
+                                Taft Avenue Manila, Philippines (2019 - up to present)
+                            </p>
+                            <p class="txt-m"><strong>Asian Qualitative Research Association </strong>(AQRA), MEMBER <br>
+                                Silang, Cavite, Philippines (2020 - up to present)
+                            </p>
+                            <p class="txt-m"><strong>International Academic Forum </strong>(IAFOR), MEMBER <br>
+                                Nagoya, Japan (2020 - up to present) 
+                            </p>
+                            <p class="txt-m"><strong>Mixed Methods International Research Association </strong>(MMIRA), MEMBER <br>
+                                Vienna, Austria (2020 – up to present)
+                            </p>
+                        </div>
+
+                    </div>
+                </div>
+            </section>
+
+            <section class="clients mt-4">
+                <div class="container">
+                    <div class="row align-items-center">
+
+                        <div class="col-lg-12 col-12">
+                            <h3 class="text-center mb-5">Seminars Given as a Resource Speaker</h3>
+                        </div>
+
+                        <div class="col-lg-12 col-12 row ml-5 mr-5">
+                            <div class="col-lg-6 col-12 text-right" >
+                                <strong>Analyzing and Interpreting Quantitative Data</strong><br>
+                                Student and Faculty Webinar (July 6, 2023) <br>
+                                La Carlota College <br>
+                                La Carlota City, Philippines
+                            </div>
+
+                            <div class="col-lg-6 col-12">
+                                <strong>Gender Sensitivity</strong><br>
+                                Faculty Seminar (May 18, 2023) <br>
+                                Bagong Barrio Elementary School<br>
+                                Sta. Maria, Bulacan, Philippines
+                            </div>
+
+                            <div class="col-lg-6 col-12 mt-3 text-right">
+                                <strong>Importance of Research Publication in the <br>Academic Success of Psychology Dominicans</strong><br>
+                                Student Seminar (May 17, 2023) <br>
+                                St. Dominic College of Asia<br>
+                                Cavite, Philippines
+                            </div>
+
+                            <div class="col-lg-6 col-12 mt-3">
+                                <strong>Positive Discipline and the Effects of Broken Family</strong><br>
+                                Parent-Teacher Conference (May 9, 2023)<br>
+                                Bagong Barrio Elementary School<br>
+                                Sta. Maria, Bulacan, Philippines
+                            </div>
+
+                            <div class="col-lg-6 col-12 mt-3 text-right">
+                                <strong>Cause and Effect of Early Pregnancy</strong><br>
+                                Parent-Teacher Conference (May 8, 2023)<br>
+                                Bagong Barrio Elementary School<br>
+                                Sta. Maria, Bulacan, Philippines
+                            </div>
+
+                            <div class="col-lg-6 col-12 mt-3">
+                                <strong>Standards of Research Publications</strong><br>
+                                Research Conference (April 19, 2023)<br>
+                                3rd SDCA International Research Conference<br>
+                                St. Dominic College of Asia <br>
+                                Cavite, Philippines
+                            </div>
+
+                            <div class="col-lg-6 col-12 mt-3 text-right">
+                                <strong>Research Methodology Conference</strong><br>
+                                Research Conference (February 18, 2023)<br>
+                                Cebu Technological University<br>
+                                Moalboal Campus, Cebu, Philippines
+                            </div>
+
+                            <div class="col-lg-6 col-12 mt-3">
+                                <strong>Standards and Trends on Research Publications</strong><br>
+                                Faculty Seminar (December 2, 2022) <br>
+                                Malay College<br>
+                                Malay, Aklan, Philippines
+                            </div>
+
+                            <div class="col-lg-6 col-12 mt-3 text-right">
+                                <strong>Quantitative Analysis</strong><br>
+                                Faculty Seminar (October 14, 2022) <br>
+                                Malay College<br>
+                                Malay, Aklan, Philippines
+                            </div>
+
+                            <div class="col-lg-6 col-12 mt-3">
+                                <strong>Research Methodology Conference</strong><br>
+                                Research Conference (September 23, 2022)<br>
+                                Cebu Technological University<br>
+                                Moalboal Campus, Cebu, Philippines
+                            </div>
+
+                            <div class="col-lg-6 col-12 mt-3 text-right">
+                                <strong>Webinar on Research Methodology</strong><br>
+                                Faculty Development Program (August 27. 2021)<br>
+                                Jesus Is Lord Colleges Foundation, Inc.<br>
+                                Bocaue, Bulacan, Philippines
+                            </div>
+
+                            <div class="col-lg-6 col-12 mt-3">
+                                <strong>Research Webinar on Systematic Review of Literature</strong><br>
+                                Faculty Development Program (August 24, 2021)<br>
+                                Jesus Is Lord Colleges Foundation, Inc.<br>
+                                Bocaue, Bulacan, Philippines
+                            </div>
+
+                            <div class="col-lg-6 col-12 mt-3 text-right">
+                                <strong>Research Methodology</strong><br>
+                                3-Day Seminar Grade 10 Learners (January 13-15, 2020)<br>
+                                St. Paul College of Bocaue<br>
+                                Bocaue, Bulacan, Philippines
+                            </div>
+
+                            <div class="col-lg-6 col-12 mt-3">
+                                <strong>Research Best Practices</strong> <br>
+                                <i>* Research Evaluation <br>
+                                * Effective Research Tools <br>
+                                * Best Research Methodology</i><br>
+                                Faculty Seminar (March 2019)<br>
+                                St. Martin De Porres Catholic School<br>
+                                Norzagaray, Bulacan, Philippines
+                            </div>
+
+                        </div>
+
+                        <div class="col-lg-12 col-12 ml-5 mr-5 mt-5">
+                            <h3 class="text-center mb-5">Seminars and Workshops Attended</h3>
+                        </div>
+
+                        <div class="col-lg-12 col-12 ml-5 mr-5">
+                            <div class="row" >
+                                <div class="col-lg-4 text-right"><p class="txt-m"><strong>June 2021 </strong></p></div>
+                                <div class="col-lg-8"><p class="txt-m"><strong>Improving Survey Methods and Developing Effective Questionnaires</strong><br>
+                                    Benguet State University</p>
+                                </div>
+
+                                <div class="col-lg-4 text-right"><p class="txt-m"><strong>June 2020 </strong></p></div>
+                                <div class="col-lg-8"><p class="txt-m"><strong>Distance Learning: Solutions and Actions Amid Digital Divide</strong><br>
+                                    Rex Book Store</p>
+                                </div>
+
+                                <div class="col-lg-4 text-right"><p class="txt-m"><strong>April 2020 </strong></p></div>
+                                <div class="col-lg-8"><p class="txt-m"><strong>American Counseling Association</strong><br>
+                                    Certificate of Continuing Education</p>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="col-lg-12 col-12 row ml-5 mr-5">
+                            <div class="col-lg-6 col-12">
+                                <ul>
+                                    <li class="txt-m">Developing Competence in Working With LBGTQI+ Communities: Awareness, Knowledge, Skills, and Action</li>
+                                    <li class="txt-m">Expanding Perspectives: Systemic Approaches to College Students Experiencing Depression</li>
+                                    <li class="txt-m">Assessment and Intervention with Suicidal Clients</li>
+                                    <li class="txt-m">The Efficacy of Interventions Aimed at Reducing Procrastination: A Meta-Analysis of Randomized Controlled Trials</li>
+                                    <li class="txt-m">Counselor Self-Care to Transform Hate and Enhance Community Building</li>
+                                    <li class="txt-m">Risk Management: Malpractice Cases and</li>
+                                </ul>
+                            </div>
+                            <div class="col-lg-6 col-12">
+                                <ul>
+                                    <li class="txt-m">Establishing Personal and Professional Boundaries</li>
+                                    <li class="txt-m">COVID-19 and Telebehavioral Health: Ethical Considerations During a Public Health Emergency</li>
+                                    <li class="txt-m">Creative Counseling for Couples: Using the Integrative Model, Part 1</li>
+                                    <li class="txt-m">Spirit</li>
+                                    <li class="txt-m">A Constructive Approach to Help Counselors Work With Clients Who Express Discriminatory Views</li>
+                                    <li class="txt-m">Ten Ways to Intentionally Use Group Work Claims Against Professional Counselors</li>
+                                    <li class="txt-m">Critical Thinking in this Time of Global Pandemic</li>
+                                </ul>
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+            </section>
+
+            <!-- <section class="clients section-padding">
+                <div class="container">
+                    <div class="row align-items-center">
+
+                        <div class="col-lg-12 col-12">
+                            <h3 class="text-center mb-5">Companies I've had worked</h3>
+                        </div>
+
+                        <div class="col-lg-2 col-4 ms-auto clients-item-height">
+                            <img src="images/clients/cachet.svg" class="clients-image img-fluid" alt="">
+                        </div>
+
+                        <div class="col-lg-2 col-4 clients-item-height">
+                            <img src="images/clients/guitar-center.svg" class="clients-image img-fluid" alt="">
+                        </div>
+
+                        <div class="col-lg-2 col-4 clients-item-height">
+                            <img src="images/clients/tokico.svg" class="clients-image img-fluid" alt="">
+                        </div>
+
+                        <div class="col-lg-2 col-4 clients-item-height">
+                            <img src="images/clients/shopify.svg" class="clients-image img-fluid" alt="">
+                        </div>
+
+                        <div class="col-lg-2 col-4 me-auto clients-item-height">
+                            <img src="images/clients/profil-rejser.svg" class="clients-image img-fluid" alt="">
+                        </div>
+
+                    </div>
+                </div>
+            </section> -->
+
+            <section class="projects section-padding" id="section_4">
+                <div class="container">
+                    <div class="row">
+
+                        <div class="col-lg-8 col-md-8 col-12 ms-auto">
+                            <div class="section-title-wrap d-flex justify-content-center align-items-center mb-4">
+                                <img src="images/white-desk-work-study-aesthetics.jpg" class="avatar-image img-fluid" alt="">
+
+                                <h2 class="text-white ms-4 mb-0">Projects</h2>
+                            </div>
+                        </div>
+
+                        <div class="clearfix"></div>
+
+                        <div class="col-lg-4 col-md-6 col-12">
+                            <div class="projects-thumb">
+                                <div class="projects-info">
+                                    <small class="projects-tag">Branding</small>
+
+                                    <h3 class="projects-title">Zoik agency</h3>
+                                </div>
+
+                                <a href="images/projects/nikhil-KO4io-eCAXA-unsplash.jpg" class="popup-image">
+                                    <img src="images/projects/nikhil-KO4io-eCAXA-unsplash.jpg" class="projects-image img-fluid" alt="">
+                                </a>
+                            </div>
+                        </div>
+
+                        <div class="col-lg-4 col-md-6 col-12">
+                            <div class="projects-thumb">
+                                <div class="projects-info">
+                                    <small class="projects-tag">Photography</small>
+
+                                    <h3 class="projects-title">The Watch</h3>
+                                </div>
+
+                                <a href="images/projects/the-5th-IQYR7N67dhM-unsplash.jpg" class="popup-image">
+                                    <img src="images/projects/the-5th-IQYR7N67dhM-unsplash.jpg" class="projects-image img-fluid" alt="">
+                                </a>
+                            </div>
+                        </div>
+
+                        <div class="col-lg-4 col-md-6 col-12">
+                            <div class="projects-thumb">
+                                <div class="projects-info">
+                                    <small class="projects-tag">Website</small>
+
+                                    <h3 class="projects-title">Polo</h3>
+                                </div>
+
+                                <a href="images/projects/true-agency-9Bjog5FZ-oc-unsplash.jpg" class="popup-image">
+                                    <img src="images/projects/true-agency-9Bjog5FZ-oc-unsplash.jpg" class="projects-image img-fluid" alt="">
+                                </a>
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+            </section>
+
+            <section class="contact section-padding" id="section_5">
+                    <div class="container">
+                        <div class="row">
+
+                            <div class="col-lg-6 col-md-8 col-12">
+                                <div class="section-title-wrap d-flex justify-content-center align-items-center mb-5">
+                                    <img src="images/aerial-view-man-using-computer-laptop-wooden-table.jpg" class="avatar-image img-fluid" alt="">
+
+                                    <h2 class="text-white ms-4 mb-0">Say Hi</h2>
+                                </div>
+                            </div>
+
+                            <div class="clearfix"></div>
+
+                            <div class="col-lg-3 col-md-6 col-12 pe-lg-0">
+                                <div class="contact-info contact-info-border-start d-flex flex-column">
+                                    <strong class="site-footer-title d-block mb-3">Services</strong>
+
+                                    <ul class="footer-menu">
+                                        <li class="footer-menu-item"><a href="#" class="footer-menu-link">Websites</a></li>
+
+                                        <li class="footer-menu-item"><a href="#" class="footer-menu-link">Branding</a></li>
+
+                                        <li class="footer-menu-item"><a href="#" class="footer-menu-link">Ecommerce</a></li>
+
+                                        <li class="footer-menu-item"><a href="#" class="footer-menu-link">SEO</a></li>
+                                    </ul>
+
+                                    <strong class="site-footer-title d-block mt-4 mb-3">Stay connected</strong>
+
+                                    <ul class="social-icon">
+                                        <li class="social-icon-item"><a href="https://twitter.com/minthu" class="social-icon-link bi-twitter"></a></li>
+
+                                        <li class="social-icon-item"><a href="#" class="social-icon-link bi-instagram"></a></li>
+
+                                        <li class="social-icon-item"><a href="#" class="social-icon-link bi-pinterest"></a></li>
+
+                                        <li class="social-icon-item"><a href="https://www.youtube.com/templatemo" class="social-icon-link bi-youtube"></a></li>
+                                    </ul>
+
+                                    <strong class="site-footer-title d-block mt-4 mb-3">Start a project</strong>
+
+                                    <p class="mb-0">I’m available for freelance projects</p>
+                                </div>
+                            </div>
+
+                            <div class="col-lg-3 col-md-6 col-12 ps-lg-0">
+                                <div class="contact-info d-flex flex-column">
+                                    <strong class="site-footer-title d-block mb-3">About</strong>
+
+                                    <p class="mb-2">
+                                        Joshua is a professional web developer. Feel free to get in touch with me.
+                              </p>
+
+                                    <strong class="site-footer-title d-block mt-4 mb-3">Email</strong>
+
+                                    <p>
+                                        <a href="mailto:hello@josh.design">
+                                            hello@josh.design
+                                        </a>
+                                    </p>
+
+                                    <strong class="site-footer-title d-block mt-4 mb-3">Call</strong>
+
+                                    <p class="mb-0">
+                                        <a href="tel: 120-240-9600">
+                                            120-240-9600
+                                        </a>
+                                    </p>
+                                </div>
+                            </div>
+
+                            <div class="col-lg-6 col-12 mt-5 mt-lg-0">
+                                <form action="#" method="get" class="custom-form contact-form" role="form">
+                                    <div class="row">
+                                        <div class="col-lg-6 col-md-6 col-12">
+                                            <div class="form-floating">
+                                                <input type="text" name="name" id="name" class="form-control" placeholder="Name" required="">
+                                                
+                                                <label for="floatingInput">Name</label>
+                                            </div>
+                                        </div>
+
+                                        <div class="col-lg-6 col-md-6 col-12"> 
+                                            <div class="form-floating">
+                                                <input type="email" name="email" id="email" pattern="[^ @]*@[^ @]*" class="form-control" placeholder="Email address" required="">
+                                                
+                                                <label for="floatingInput">Email address</label>
+                                            </div>
+                                        </div>
+
+                                        <div class="col-lg-3 col-md-6 col-6">
+                                            <div class="form-check form-check-inline">
+                                                <input name="website" type="checkbox" class="form-check-input" id="inlineCheckbox1" value="1">
+
+                                                <label class="form-check-label" for="inlineCheckbox1">
+                                                    <i class="bi-globe form-check-icon"></i>
+                                                    <span class="form-check-label-text">Websites</span>
+                                                </label>
+                                          </div>
+                                        </div>
+
+                                        <div class="col-lg-3 col-md-6 col-6">
+                                            <div class="form-check form-check-inline">
+                                                <input name="branding" type="checkbox" class="form-check-input" id="inlineCheckbox2" value="1">
+
+                                                <label class="form-check-label" for="inlineCheckbox2">
+                                                    <i class="bi-lightbulb form-check-icon"></i>
+                                                    <span class="form-check-label-text">Branding</span>
+                                                </label>
+                                            </div>
+                                        </div>
+
+                                        <div class="col-lg-3 col-md-6 col-6">
+                                            <div class="form-check form-check-inline">
+                                                <input name="ecommerce" type="checkbox" class="form-check-input" id="inlineCheckbox3" value="1">
+
+                                                <label class="form-check-label" for="inlineCheckbox3">
+                                                    <i class="bi-phone form-check-icon"></i>
+                                                    <span class="form-check-label-text">Ecommerce</span>
+                                                </label>
+                                            </div>
+                                        </div>
+
+                                        <div class="col-lg-3 col-md-6 col-6">
+                                            <div class="form-check form-check-inline me-0">
+                                                <input name="seo" type="checkbox" class="form-check-input" id="inlineCheckbox4" value="1">
+
+                                                <label class="form-check-label" for="inlineCheckbox4">
+                                                    <i class="bi-google form-check-icon"></i>
+                                                    <span class="form-check-label-text">SEO</span>
+                                                </label>
+                                            </div>
+                                        </div>
+
+                                        <div class="col-lg-12 col-12">
+                                            <div class="form-floating">
+                                                <textarea class="form-control" id="message" name="message" placeholder="Tell me about the project"></textarea>
+                                                
+                                                <label for="floatingTextarea">Tell me about the project</label>
+                                            </div>
+                                        </div>
+
+                                        <div class="col-lg-3 col-12 ms-auto">
+                                            <button type="submit" class="form-control">Send</button>
+                                        </div>
+
+                                    </div>
+                                </form>
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+        </main>
+
+        <footer class="site-footer">
+            <div class="container">
+                <div class="row">
+
+                    <div class="col-lg-12 col-12">
+                        <div class="copyright-text-wrap">
+                            <p class="mb-0">
+                                <span class="copyright-text">Copyright © 2025 <a href="#">My Portfolio</a>. All rights reserved.</span>
+                                Design: 
+                                <a rel="sponsored" href="https://templatemo.com" target="_blank">TemplateMo</a>
+                            </p>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+        </footer>
+
+        <!-- JAVASCRIPT FILES -->
+        <script src="js/jquery.min.js"></script>
+        <script src="js/bootstrap.min.js"></script>
+        <script src="js/jquery.sticky.js"></script>
+        <script src="js/click-scroll.js"></script>
+        <script src="js/jquery.magnific-popup.min.js"></script>
+        <script src="js/magnific-popup-options.js"></script>
+        <script src="js/custom.js"></script>
+
+    </body>
+</html>
+<style>
+    .txt-m{
+        font-size:16px;
+    }
+    ._link{
+        color:blue; text-decoration: underline;
+    }
+    .responsive-table {
+        width: 100%;
+        overflow-x: auto;
+    }
+
+    .responsive-table table {
+        width: 100%;
+        border-collapse: collapse;
+        min-width: 800px; /* force horizontal scroll on small screens */
+    }
+
+    .responsive-table th,
+    .responsive-table td {
+        border: 1px solid #ccc;
+        padding: 8px;
+        text-align: left;
+        vertical-align: top;
+    }
+
+    .responsive-table th {
+        background-color: #f2f2f2;
+    }
+
+    .text-right{
+        text-align:right;
+    }
+
+</style>
