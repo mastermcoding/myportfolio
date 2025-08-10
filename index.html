@@ -477,47 +477,6 @@ https://templatemo.com/tm-578-first-portfolio
                                     </div>
                                 </div>
 
-                                @php
-                                    $items = [
-                                        [
-                                            'id' => 1,
-                                            'year' => 2021,
-                                            'authors' => 'Tus, J.',
-                                            'country' => 'India',
-                                            'conference' => 'Online International Conference On Multidisciplinary Research And Development 21',
-                                            'title' => 'Amidst COVID-19 Pandemic: Depression, Anxiety, Stress, and Academic Performance of the Students in the New Normal of Education in the Philippines.',
-                                            'doi' => '10.6084/m9.figshare.14775339.v1'
-                                        ],
-                                        [
-                                            'id' => 2,
-                                            'year' => 2022,
-                                            'authors' => 'Tus, J. et al.',
-                                            'country' => 'Malaysia',
-                                            'conference' => 'Fifth International Multidisciplinary Conference on Current Research Trends-2022',
-                                            'title' => 'Work Values, Job Involvement, Organizational Commitment and Job Performance of Public-School Teachers Amidst the Pandemic. Journal of Production, Operations Management and Economics. 1-9.',
-                                            'doi' => '10.55529/jpome.23.1.9.'
-                                        ],
-                                        [
-                                            'id' => 3,
-                                            'year' => 2022,
-                                            'authors' => 'Tus, J.',
-                                            'country' => 'Tunisia',
-                                            'conference' => '4th International Congress Of Health, Engineering And Applied Sciences',
-                                            'title' => 'The Self-Efficacy and Its Relationship to the Academic Performance in Online Learning Among Senior High School Students.',
-                                            'doi' => ''
-                                        ],
-                                        [
-                                            'id' => 4,
-                                            'year' => 2022,
-                                            'authors' => 'Tus, J.',
-                                            'country' => 'Philippines',
-                                            'conference' => '7th ueKAMAYNILAAN 2022 Virtual National Research Conference',
-                                            'title' => 'A Phenomenological Study of the Lived Experiences and Challenges Faced by School Service Drivers Amidst the COVID-19 Pandemic',
-                                            'doi' => ''
-                                        ],
-                                    ];
-                                @endphp
-
                                 <div class="col-lg-12 col-12 mt-5">
                                     <div class="services-thumb services-thumb-up">
                                         <div class="d-flex flex-wrap align-items-center border-bottom mb-4 pb-3">
@@ -537,144 +496,49 @@ https://templatemo.com/tm-578-first-portfolio
                                                     </tr>
                                                 </thead>
                                                 <tbody>
-                                                    @foreach ($items as $item)
-                                                        <tr>
-                                                            <td>{{ $item['id'] }}</td>
-                                                            <td>{{ $item['year'] }}</td>
-                                                            <td>{{ $item['authors'] }}</td>
-                                                            <td>{{ $item['country'] }}</td>
-                                                            <td>{{ $item['conference'] }}</td>
-                                                            <td>{{ $item['title'] }}</td>
-                                                            <td>
-                                                                @if ($item['doi'])
-                                                                    <a href="https://doi.org/{{ $item['doi'] }}" target="_blank">{{ $item['doi'] }}</a>
-                                                                @else
-                                                                    N/A
-                                                                @endif
-                                                            </td>
-                                                        </tr>
-                                                    @endforeach
+                                                    <tr>
+                                                        <td>1</td>
+                                                        <td>2021</td>
+                                                        <td>Tus, J.</td>
+                                                        <td>India</td>
+                                                        <td>Online International Conference On Multidisciplinary Research And Development 21</td>
+                                                        <td>Amidst COVID-19 Pandemic: Depression, Anxiety, Stress, and Academic Performance of the Students in the New Normal of Education in the Philippines.</td>
+                                                        <td>10.6084/m9.figshare.14775339.v1</td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td>2</td>
+                                                        <td>2022</td>
+                                                        <td>Tus, J. et al.</td>
+                                                        <td>Malaysia</td>
+                                                        <td>Fifth International Multidisciplinary Conference on Current Research Trends-2022</td>
+                                                        <td>Work Values, Job Involvement, Organizational Commitment and Job Performance of Public-School Teachers Amidst the Pandemic. Journal of Production, Operations Management and Economics. 1-9.</td>
+                                                        <td>10.55529/jpome.23.1.9.</td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td>3</td>
+                                                        <td>2022</td>
+                                                        <td>Tus, J.</td>
+                                                        <td>Tunisia</td>
+                                                        <td>4th International Congress Of Health, Engineering And Applied Sciences</td>
+                                                        <td>The Self-Efficacy and Its Relationship to the Academic Performance in Online Learning Among Senior High School Students.</td>
+                                                        <td></td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td>4</td>
+                                                        <td>2022</td>
+                                                        <td>Tus, J.</td>
+                                                        <td>Philippines</td>
+                                                        <td>7th ueKAMAYNILAAN 2022 Virtual National Research Conference</td>
+                                                        <td>A Phenomenological Study of the Lived Experiences and Challenges Faced by School Service Drivers Amidst the COVID-19 Pandemic</td>
+                                                        <td></td>
+                                                    </tr>
+
                                                 </tbody>
                                             </table>
                                         </div>
 
                                     </div>
                                 </div>
-                                
-                                @php
-                                    $items2 = [
-                                        [
-                                            'id' => 107,
-                                            'year' => 2023,
-                                            'authors' => 'Yapo et al.',
-                                            'title' => 'The Psychological Well-Being and Lived Experiences of LGBT Individuals with Fur Babies.',
-                                            'journal' => 'Psychology and Education: A Multidisciplinary Journal',
-                                            'volume' => 7,
-                                            'pages' => '146-152',
-                                            'doi' => '10.5281/zenodo.7651584'
-                                        ],
-                                        [
-                                            'id' => 108,
-                                            'year' => 2023,
-                                            'authors' => 'Santiago et al.',
-                                            'title' => 'Halalan Pilipinas: The Lived Experiences and Challenges Faced by Election Poll Watchers.',
-                                            'journal' => 'Psychology and Education: A Multidisciplinary Journal',
-                                            'volume' => 7,
-                                            'pages' => '202-209',
-                                            'doi' => '10.5281/zenodo.7653196'
-                                        ],
-                                        [
-                                            'id' => 109,
-                                            'year' => 2023,
-                                            'authors' => 'Baluyot et al.',
-                                            'title' => 'Kinsenas, Katapusan: The Lived Experiences and Challenges Faced by Single Mothers.',
-                                            'journal' => 'Psychology and Education: A Multidisciplinary Journal',
-                                            'volume' => 7,
-                                            'pages' => '182-188',
-                                            'doi' => '10.5281/zenodo.7653107'
-                                        ],
-                                        [
-                                            'id' => 110,
-                                            'year' => 2023,
-                                            'authors' => 'Dianito et al.',
-                                            'title' => 'Celebrity Admiration and Its Relationship to the Self-Esteem of Filipino Male Teenagers.',
-                                            'journal' => 'Psychology and Education: A Multidisciplinary Journal',
-                                            'volume' => 7,
-                                            'pages' => '305-313',
-                                            'doi' => '10.5281/zenodo.7683080'
-                                        ],
-                                        [
-                                            'id' => 111,
-                                            'year' => 2023,
-                                            'authors' => 'Paras et al.',
-                                            'title' => 'Ang Naging Kamalayan Bunga Ng Hiwalayan: Understanding Young Adults’ Attitudes Towards Parental Separation.',
-                                            'journal' => 'Psychology and Education: A Multidisciplinary Journal',
-                                            'volume' => 7,
-                                            'pages' => '637-657',
-                                            'doi' => '10.5281/zenodo.7749977'
-                                        ],
-                                        [
-                                            'id' => 112,
-                                            'year' => 2023,
-                                            'authors' => 'Dalmacio et al.',
-                                            'title' => 'Exploring the Implication of Gadgets Use towards School and Behavior of Middle Childhood: The Mothers` Perspectives.',
-                                            'journal' => 'Psychology and Education: A Multidisciplinary Journal',
-                                            'volume' => 7,
-                                            'pages' => '741-750',
-                                            'doi' => '10.5281/zenodo.7750846'
-                                        ],
-                                        [
-                                            'id' => 113,
-                                            'year' => 2023,
-                                            'authors' => 'Sy et al.',
-                                            'title' => 'A Phenomenological Exploration of Binge-Watching in Early Adulthood.',
-                                            'journal' => 'Psychology and Education: A Multidisciplinary Journal',
-                                            'volume' => 7,
-                                            'pages' => '517-531',
-                                            'doi' => '10.5281/zenodo.7731819'
-                                        ],
-                                        [
-                                            'id' => 114,
-                                            'year' => 2023,
-                                            'authors' => 'Solmiano et al.',
-                                            'title' => 'The Effect of Social Media Addiction and Social Anxiety on the Happiness of Tertiary Students Amidst the COVID-19 Pandemic.',
-                                            'journal' => 'Psychology and Education: A Multidisciplinary Journal',
-                                            'volume' => 7,
-                                            'pages' => '502-510',
-                                            'doi' => '10.5281/zenodo.7725466'
-                                        ],
-                                        [
-                                            'id' => 115,
-                                            'year' => 2023,
-                                            'authors' => 'Dacanay et al.',
-                                            'title' => 'Job Motivation and Its Impact on Job Satisfaction Among Accountants.',
-                                            'journal' => 'Psychology and Education: A Multidisciplinary Journal',
-                                            'volume' => 7,
-                                            'pages' => '',
-                                            'doi' => '10.5281/zenodo.7992448'
-                                        ],
-                                        [
-                                            'id' => 116,
-                                            'year' => 2023,
-                                            'authors' => 'Regoso et al.',
-                                            'title' => 'Work Environment and Its Influence on Job Burnout and Organizational Commitment of BPO Agents.',
-                                            'journal' => 'Psychology and Education: A Multidisciplinary Journal',
-                                            'volume' => 7,
-                                            'pages' => '',
-                                            'doi' => '10.5281/zenodo.8040889'
-                                        ],
-                                        [
-                                            'id' => 117,
-                                            'year' => 2023,
-                                            'authors' => 'Francisco et al.',
-                                            'title' => 'Amidst the ASF Outbreak: The Job Burnout and Employee Performance in the Feed Industry.',
-                                            'journal' => 'Psychology and Education: A Multidisciplinary Journal',
-                                            'volume' => 7,
-                                            'pages' => '',
-                                            'doi' => '10.5281/zenodo.8016949'
-                                        ],
-                                    ];
-                                @endphp
 
                                 <div class="col-lg-12 col-12 mt-5">
                                     <div class="services-thumb services-thumb-up">
@@ -697,18 +561,117 @@ https://templatemo.com/tm-578-first-portfolio
                                                     </tr>
                                                 </thead>
                                                 <tbody>
-                                                    @foreach ($items2 as $item)
-                                                        <tr>
-                                                            <td>{{ $item['id'] }}</td>
-                                                            <td>{{ $item['year'] }}</td>
-                                                            <td>{{ $item['authors'] }}</td>
-                                                            <td>{{ $item['title'] }}</td>
-                                                            <td>{{ $item['journal'] }}</td>
-                                                            <td>{{ $item['volume'] }}</td>
-                                                            <td>{{ $item['pages'] ?: 'N/A' }}</td>
-                                                            <td>{{ $item['doi'] }}</td>
-                                                        </tr>
-                                                    @endforeach
+                                                    <tr>
+                                                        <td>107</td>
+                                                        <td>2023</td>
+                                                        <td>Yapo et al.</td>
+                                                        <td>The Psychological Well-Being and Lived Experiences of LGBT Individuals with Fur Babies.</td>
+                                                        <td>Psychology and Education: A Multidisciplinary Journal</td>
+                                                        <td>7</td>
+                                                        <td>146-152</td>
+                                                        <td>10.5281/zenodo.7651584</td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td>108</td>
+                                                        <td>2023</td>
+                                                        <td>Santiago et al.</td>
+                                                        <td>Halalan Pilipinas: The Lived Experiences and Challenges Faced by Election Poll Watchers.</td>
+                                                        <td>Psychology and Education: A Multidisciplinary Journal</td>
+                                                        <td>7</td>
+                                                        <td>202-209</td>
+                                                        <td>10.5281/zenodo.7653196</td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td>109</td>
+                                                        <td>2023</td>
+                                                        <td>Baluyot et al.</td>
+                                                        <td>Kinsenas, Katapusan: The Lived Experiences and Challenges Faced by Single Mothers.</td>
+                                                        <td>Psychology and Education: A Multidisciplinary Journal</td>
+                                                        <td>7</td>
+                                                        <td>182-188</td>
+                                                        <td>10.5281/zenodo.7653107</td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td>110</td>
+                                                        <td>2023</td>
+                                                        <td>Dianito et al.</td>
+                                                        <td>Celebrity Admiration and Its Relationship to the Self-Esteem of Filipino Male Teenagers.</td>
+                                                        <td>Psychology and Education: A Multidisciplinary Journal</td>
+                                                        <td>7</td>
+                                                        <td>305-313</td>
+                                                        <td>10.5281/zenodo.7683080</td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td>111</td>
+                                                        <td>2023</td>
+                                                        <td>Paras et al.</td>
+                                                        <td>Ang Naging Kamalayan Bunga Ng Hiwalayan: Understanding Young Adults’ Attitudes Towards Parental Separation.</td>
+                                                        <td>Psychology and Education: A Multidisciplinary Journal</td>
+                                                        <td>7</td>
+                                                        <td>637-657</td>
+                                                        <td>10.5281/zenodo.7749977</td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td>112</td>
+                                                        <td>2023</td>
+                                                        <td>Dalmacio et al.</td>
+                                                        <td>Exploring the Implication of Gadgets Use towards School and Behavior of Middle Childhood: The Mothers` Perspectives.</td>
+                                                        <td>Psychology and Education: A Multidisciplinary Journal</td>
+                                                        <td>7</td>
+                                                        <td>741-750</td>
+                                                        <td>10.5281/zenodo.7750846</td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td>113</td>
+                                                        <td>2023</td>
+                                                        <td>Sy et al.</td>
+                                                        <td>A Phenomenological Exploration of Binge-Watching in Early Adulthood.</td>
+                                                        <td>Psychology and Education: A Multidisciplinary Journal</td>
+                                                        <td>7</td>
+                                                        <td>517-531</td>
+                                                        <td>10.5281/zenodo.7731819</td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td>114</td>
+                                                        <td>2023</td>
+                                                        <td>Solmiano et al.</td>
+                                                        <td>The Effect of Social Media Addiction and Social Anxiety on the Happiness of Tertiary Students Amidst the COVID-19 Pandemic.</td>
+                                                        <td>Psychology and Education: A Multidisciplinary Journal</td>
+                                                        <td>7</td>
+                                                        <td>502-510</td>
+                                                        <td>10.5281/zenodo.7725466</td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td>115</td>
+                                                        <td>2023</td>
+                                                        <td>Dacanay et al.</td>
+                                                        <td>Job Motivation and Its Impact on Job Satisfaction Among Accountants.</td>
+                                                        <td>Psychology and Education: A Multidisciplinary Journal</td>
+                                                        <td>7</td>
+                                                        <td></td>
+                                                        <td>10.5281/zenodo.7992448</td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td>116</td>
+                                                        <td>2023</td>
+                                                        <td>Regoso et al.</td>
+                                                        <td>Work Environment and Its Influence on Job Burnout and Organizational Commitment of BPO Agents.</td>
+                                                        <td>Psychology and Education: A Multidisciplinary Journal</td>
+                                                        <td>7</td>
+                                                        <td></td>
+                                                        <td>10.5281/zenodo.8040889</td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td>117</td>
+                                                        <td>2023</td>
+                                                        <td>Francisco et al.</td>
+                                                        <td>Amidst the ASF Outbreak: The Job Burnout and Employee Performance in the Feed Industry.</td>
+                                                        <td>Psychology and Education: A Multidisciplinary Journal</td>
+                                                        <td>7</td>
+                                                        <td></td>
+                                                        <td>10.5281/zenodo.8016949</td>
+                                                    </tr>
+
                                                 </tbody>
                                             </table>
                                         </div>
